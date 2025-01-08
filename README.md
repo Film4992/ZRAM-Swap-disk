@@ -1,23 +1,16 @@
 # ZRAM-Swap-disk
 Swap Zram
-# ZRAM Swap Magisk Module
+# โมดูล ZRAM Swap Magisk
 
-## Descriptions
-- Configures your device ZRAM Swap disk
-- Resizes ZRAM Swap disk 
-- Sets several swap settings
+## คำอธิบาย
+- กำหนดค่าดิสก์ ZRAM Swap ของอุปกรณ์ของคุณ
+- ปรับขนาดดิสก์ ZRAM Swap
+- ตั้งค่าการสลับหลายรายการ
 
-## Requirements
-- Magisk or KernelSU installed
+## ข้อกำหนด
+- ติดตั้ง Magisk หรือ KernelSU
 
-## Installation Guide 
-- Install this module  Magisk app or KernelSU app or Recovery if Magisk installed
-- Reboot
-- Install Disk Info app from Play Store to see your device Swap size changes
-
-
-
-
-
-
-
+## คู่มือการติดตั้ง
+- ติดตั้งโมดูลนี้ แอป Magisk หรือแอป KernelSU หรือ Recovery หากติดตั้ง Magisk
+- รีบูต
+- ติดตั้งแอป Disk Info จาก Play Store เพื่อดูการเปลี่ยนแปลงขนาดการสลับของอุปกรณ์ของคุณ
